@@ -1,35 +1,13 @@
-Customer: (Calling the airline customer service)
-
-CSR: Hello, and thank you for calling [Airline Name] customer service. My name is James. How may I assist you today?
-
-Customer: Hi James, this is Emily. I'm scheduled for a flight next week, and I have a few questions about my reservation.
-
-CSR: Hello, Emily! I'm here to help. Could you please provide me with your booking reference or flight number?
-
-Customer: Sure, my booking reference is XYZ789.
-
-CSR: Thank you, Emily. Let me pull up your reservation. (After a moment) Great! I've got your details. How can I assist you with your upcoming flight?
-
-Customer: I recently changed my email address, and I want to make sure that I'll still receive all the necessary updates and notifications regarding my flight. Can you update that for me?
-
-CSR: Certainly, Emily. I can update your email address in our system. May I have your new email address, please?
-
-Customer: Yes, it's emily.new@email.com.
-
-CSR: Thank you. I've updated your email address to emily.new@email.com. You should receive all future communications to that address. Is there anything else you'd like to check or modify?
-
-Customer: Actually, yes. I noticed that my seat assignment is not showing up on the itinerary. Can you confirm if I have a seat assigned?
-
-CSR: I apologize for any confusion, Emily. Let me check your seat assignment for you. (After a brief pause) It looks like you currently don't have a seat assigned. Would you like me to assign a seat for you now?
-
-Customer: Yes, please. A window seat, if possible.
-
-CSR: Absolutely, Emily. I've assigned you a window seat. You can find the details on your updated itinerary. Is there anything else I can assist you with?
-
-Customer: That's it, James. Thank you for your help.
-
-CSR: You're welcome, Emily. If you have any more questions or need assistance closer to your travel date, feel free to contact us. Have a fantastic journey with [Airline Name]!
-
-Customer: Thanks, James. Goodbye!
-
-CSR: Goodbye, Emily. Safe travels!
+User: Hi there! What kind of packages do you have available to Santos from Leon?
+Wizard: What would be your travel dates? will you be travelling alone or with other travel companions?
+User: I only have a little bit of time off between August 18 and September 6. I'll be travelling by myself. I don't like other people.
+Wizard: For that time frame, I only have high-end 5-star hotels available. What is your budget?
+User: I'm going wild this vacation! My purpose is to spend money, not save it! Hit me with your best shot!
+Wizard: Economy or business class flight?
+User: Business!
+Wizard: The Sunny Aurora Hotel has a first class package available at it's 5-star location in Leon, Spain which includes free wifi, on a  a business class flight for the very reasonable price of 3709.22USD which is available with departures either on August 18 or August 25th.
+User: How long is the stay?
+Wizard: 10 days. It falls well within your dates.
+User: Great! I'll book this package with departure on the 18th.
+Wizard: We will take care of the booking and send you a confirmation. Thank you and have great day.
+User: Thanks!
