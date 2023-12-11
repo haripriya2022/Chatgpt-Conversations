@@ -1,0 +1,27 @@
+Customer: (Calling the airline customer service)
+
+Customer Service Representative (CSR): Hello! Thank you for calling [Airline Name] customer service. My name is Sarah. How may I assist you today?
+
+Customer: Hi Sarah, this is Alex. I have a flight scheduled for tomorrow, and I wanted to check if everything is on track.
+
+CSR: Hi Alex! I'd be happy to help. May I have your booking reference or flight number, please?
+
+Customer: Sure, my booking reference is ABC123.
+
+CSR: Thank you, Alex. Let me pull up your reservation. (After a moment) Great! I see your booking. How can I assist you with your upcoming flight?
+
+Customer: I heard there might be some weather issues in the area. Can you confirm if my flight is still scheduled on time?
+
+CSR: I appreciate your concern, Alex. Let me check the current status for you. (After a brief pause) It looks like your flight is currently scheduled on time. However, I recommend checking for any updates closer to your departure time, as weather conditions can change.
+
+Customer: That's a relief. Thanks for checking, Sarah. Also, I wanted to inquire about the baggage allowance. Can you confirm how many bags I'm allowed to check in?
+
+CSR: Of course, Alex. For your specific flight, you are allowed one checked bag weighing up to 50 pounds, and you can bring one carry-on bag and a personal item on board. Is there anything else I can assist you with regarding your upcoming journey?
+
+Customer: That's all for now, Sarah. Thanks for your help.
+
+CSR: You're welcome, Alex! If you have any more questions or need assistance in the future, feel free to reach out. Have a great trip with [Airline Name]!
+
+Customer: Thank you, Sarah. Goodbye!
+
+CSR: Goodbye, Alex. Safe travels!
