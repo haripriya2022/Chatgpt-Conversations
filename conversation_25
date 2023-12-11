@@ -1,0 +1,17 @@
+User: Hi there, I'd like to book a trip from Boston please.
+Wizard: Where are you headed and how do you want to be there?
+User: I'd be interested in going to Essen
+Wizard: Great, when would you like to go and how much are you planning on spending?
+User: I'd like to book a trip anytime between Friday September 16 and Tuesday September 27.
+Wizard: Unfortunately, I can't get you anything in Essen. Do you have any other places you'd like me to help you search?
+User: Yes, how about Burlington?
+Wizard: We have a few options in Burlington that could work for you. One is a 11 day stay at a 3 star hotel, and the other is a 7 day stay at a 2.5 star hotel. Which one would you prefer?
+User: How much does each one cost?
+Wizard: For 11 days, it will be 962.75 flying economy and 1141.57 flying business. For 7 days, it will be 848.49 flying economy and 1018.47 flying business.
+User: Could you please tell me about trip packages to Calgary?
+Wizard: We have a 7 day trip to Calgary at a 4 star hotel. It's 673.40 for economy and 897.78 for business. Indeed! Do you have any questions about any particular option?
+User: Yes I do! For the 11 day stay in Burlington, that's from Friday September 16 to Tuesday September 27, right?
+Wizard: It's from September 17-27 actually.
+User: Okay, that's perfectly fine! I'd like to book that trip, please. Flying economy.
+Wizard: Great! I have confirmed your reservation for $962.75. Have a great trip!
+User: Thank you!
