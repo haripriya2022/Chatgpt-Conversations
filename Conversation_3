@@ -1,23 +1,12 @@
-Customer: (Calling the airline customer service)
-
-CSR: Hello, and thank you for calling [Airline Name] customer service. My name is Lisa. How can I assist you today?
-
-Customer: Hi Lisa, this is Mark. I have a flight booked for next week, and I need to make a change to my meal preference.
-
-CSR: Hello Mark! I'd be happy to help. Could you please provide me with your booking reference or flight number?
-
-Customer: Sure, my booking reference is LMN456.
-
-CSR: Thank you, Mark. Let me pull up your reservation. (After a moment) Got it! How can I assist you with your meal preference?
-
-Customer: I initially selected a vegetarian meal, but I'd like to change it to a non-vegetarian option now.
-
-CSR: Absolutely, Mark. I can certainly help you with that. I've updated your meal preference to non-vegetarian. Is there anything else you'd like to add or modify for your upcoming flight?
-
-Customer: That's it, Lisa. Thanks for the quick assistance.
-
-CSR: You're welcome, Mark. If you have any more requests or if there's anything else I can help you with, feel free to let me know. Have a pleasant journey with [Airline Name]!
-
-Customer: Thank you, Lisa. Goodbye!
-
-CSR: Goodbye, Mark. Safe travels!
+User: Hey there, I’m looking to check out a few destinations to see if they’ll be appropriate for me to accept an internship in. I want to travel from August 27-30, just enough to get a taste of each location.
+I am leaving from Monterrey and I would like to spend 5200 at most, as my internship is unpaid.
+Is there anything available to Kobe for these dates and price?
+Wizard: Unfortunately the closest flight I can book you for Kobe would be the 11th of September.  Would you like to hear more about this package?
+User: I was also looking at Munich..
+Wizard: If you're interested in Munich, the closest I can give you to your requested dates would be the 27th of August to the 1st of September. However, this package falls well within your budget at 2813.20USD.
+User: The last destination I am considering is Paris.
+Wizard: Unfortunately I can't seem to find anything in Paris matching your required dates.
+User: Ok. Well I guess Munich is the best choice.
+Let’s go ahead and book that!
+Wizard: Wonderful! Your trip has been booked. Have fun!
+User: Thank you :slightly_smiling_face:
