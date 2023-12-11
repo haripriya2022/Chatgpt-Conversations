@@ -1,0 +1,21 @@
+User: Find me a flight from Belo Horizonte to Brasilia. First class only
+Wizard: I have a business class flight and 5 day stay at a 3.0 star hotel available for 192.14USD.
+User: Upgrade that to a five star hotel
+Wizard: Unfortunately the best I can give you is a 3.5 star hotel with a guest rating of 8.37.
+User: That won't do. Find me a flight from Belo Horizonte to Rome, and find me a five star hotel in Rome.
+Wizard: Would you be interested in staying at a 4.0 star hotel in Rome?
+User: eww absolutely not. find me a five star hotel. I refuse to believe there are no available five star hotels in Rome
+Wizard: I am sorry but I have no 5.0 star hotels available in Rome for you :disappointed:
+User: are there first class flights from Belo Horizonte to Rome?
+Wizard: Yes, I have business class flights available for these locations.
+User: no first class? try london to rome
+Wizard: Unfortunately I can only offer economy or business class flights. I do not have first class flight access in my database. Would you still like me to explore options from London to Rome?
+User: Please do. And check again for five star hotels in Rome.
+Wizard: I still only have 4.0 star hotels available in Rome.
+User: What's the earliest flight you have from Belo Horizonte to Rome? I need to book for two and return on Sept 5
+Wizard: I can book you 5 days at Hotel Grand Residence, a 4.0 star hotel with a guest rating of 8.8 from September 2nd-September 5. 
+User: Check for the earliest flight from London to Rome, also for two and returning Sept 5
+Wizard: I have only the same dates available from London.
+User: Okay book us business class for the Belo Horizonte to Rome package
+Wizard: I am booking your flight
+User: terrific, wonderful. thankyou
