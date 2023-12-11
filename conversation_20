@@ -1,0 +1,17 @@
+User: What hotels do you have in Vancouver?
+Wizard: Where are you leaving from?
+User: Santos
+Wizard: Do you have a budget?
+User: Well, I kind of want to see what hotels you have first. My budget can change a bit based on the options
+Wizard: How many people are travelling?
+User: Just myself
+Wizard: Would you like a 3 star hotel or a 4 star hotel?
+User: For sure I want the best you've got
+Wizard: Our very best package is a 4 star hotel, 10/10 guest rating, near a park and museum, free parking, breakfast, and wifi, from September 3rd to 14th, the business class package is 3015.77 and the economy package is 2362.11.
+User: Okay that hotel sounds good! Sorry I forgot to tell you my dates: I can leave Friday September 2nd or later. Are those prices for a week?
+Wizard: The prices are from September 3rd to 14th.
+User: Can I spend a bit more to stay longer?
+Wizard: This is the longest package there is.
+User: I'll take it!
+Wizard: Great! I'll book this trip and then send you confirmation! Have a nice day!
+User: Perfect, thanks!
